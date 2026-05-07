@@ -4,7 +4,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 import requests
 
-API_BASE = "http://localhost:8000"
+API_BASE = "https://projet-entrepo.onrender.com/"
 
 # ─── CONFIG PAGE ──────────────────────────────────────────────
 st.set_page_config(
